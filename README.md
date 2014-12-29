@@ -1,4 +1,4 @@
 PyRisk
 ======
 
-Second cellular automata evolution simulation
+Risk game with simple AI
